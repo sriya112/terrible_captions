@@ -1,0 +1,25 @@
+body {
+  background-color: #162C9a;
+}
+.buttons{
+	display:flex;
+
+	justify-content: center;
+}
+.button1, .button2, .button3{
+	background-color: #FFD027;
+	color: white;
+	padding: 15px 32px;
+}
+.navbar{
+  padding: 10px 20px;
+  background-color: #FFD027;
+	color: white;
+  /*background-color: rgb();*/
+}
+@media(min-width:468px){
+  .container-1{
+      display:flex;
+      
+  }
+}
